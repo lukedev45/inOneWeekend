@@ -98,5 +98,4 @@ inline vec3 unit_vector(const vec3& v) {
 
 // double is used here but floats can be used too in memory intensive situation
 
-#endif VEC3_H
-
+#endif
